@@ -1,7 +1,6 @@
-## Aggies Autonomous Auto (A3) - Autodrive Challenge 1
+## My Contributions to the AggiesAutonomousAuto(A3) in the AutodriveChallenge
 
-
-  <img src="mission_control/src/autodrive_2021.jpg" width="600" height="450" />
+  <img src="src/mission_control/src/autodrive_2021.jpg" width="600" height="450" />
 
   The repo here is INCOMPLETE (sample code). The complete version will be released around summer 2022.
 
@@ -11,13 +10,18 @@
 * Trajectory Planner
 * Traffic Light Classifer
 * Model Predictive Controller (MPC)
-* 
+* Software Integration
 
 ### Lane Detector
 * Using edge detection and curve fitting (conventional method) - https://www.youtube.com/watch?v=xIRT3rgWrFQ
   
 * Using Convolutional Neural Network (deep learning) - https://www.youtube.com/watch?v=3bi_y9L7gpM
-  
+
+### Route Planning (A*)
+
+### Traffic Light Classifier
+
+### Model Predictive Controller
 
 ### Tested 
 * Ubuntu 18.04 LTS
