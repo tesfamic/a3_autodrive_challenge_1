@@ -16,16 +16,22 @@
 * Using edge detection and curve fitting (conventional method) 
   * Demo (earlier version): https://www.youtube.com/watch?v=gBWg0yt7hY4  
   * Presentation: https://www.youtube.com/watch?v=xIRT3rgWrFQ
+  * <img src="images/conventional_detector.png" width="300" />
   
 * Using Convolutional Neural Network (deep learning)
   * Demonstration: https://www.youtube.com/watch?v=O2iV3f7KMMs
   * Presentation: https://www.youtube.com/watch?v=3bi_y9L7gpM
+  * <img src="images/cnn_detector.png" width="300" />
   
 ### Route Planning (A*)
+* Map is created in our own simple format for MCity-Ann Arbor Michigan
+* <img src="images/mcity_map.png" width = "300" /> <img src="images/routing_astar.png" width="300" />
 
 ### Traffic Light Classifier
+* <img src="images/traffic_light_classifier.png" width="360" />
 
 ### Model Predictive Controller
+* 
 
 ### Tested 
 * Ubuntu 18.04 LTS
