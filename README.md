@@ -13,10 +13,14 @@
 * Software Integration
 
 ### Lane Detector
-* Using edge detection and curve fitting (conventional method) - https://www.youtube.com/watch?v=xIRT3rgWrFQ
+* Using edge detection and curve fitting (conventional method) 
+  * Demo (earlier version): https://www.youtube.com/watch?v=gBWg0yt7hY4  
+  * Presentation: https://www.youtube.com/watch?v=xIRT3rgWrFQ
   
-* Using Convolutional Neural Network (deep learning) - https://www.youtube.com/watch?v=3bi_y9L7gpM
-
+* Using Convolutional Neural Network (deep learning)
+  * Demonstration: https://www.youtube.com/watch?v=O2iV3f7KMMs
+  * Presentation: https://www.youtube.com/watch?v=3bi_y9L7gpM
+  
 ### Route Planning (A*)
 
 ### Traffic Light Classifier
