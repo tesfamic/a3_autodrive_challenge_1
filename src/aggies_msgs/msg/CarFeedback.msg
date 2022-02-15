@@ -1,0 +1,10 @@
+Header header
+float32 velCurrent
+float32 currentSteerAngle
+bool carAutoState
+bool driverInterferenceDetected
+bool suffBrakeStandStill
+uint8 gear_mode
+float32 yaw_rate
+float32 yaw
+uint8 steerStat

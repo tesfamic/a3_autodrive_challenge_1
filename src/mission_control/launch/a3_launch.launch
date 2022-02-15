@@ -1,0 +1,10 @@
+<launch>
+	<!-- <node pkg="rosserial_python" name="serial_node" type="serial_node.py" args="_port:=/dev/ttyACM0 _baud:=9600" output="screen"/> -->
+	<!-- <node pkg="state_machine" name="state_machine_node" type="state_machine_node" output="screen"/> -->
+	<!-- <node pkg="canbus" name="canbus" type="canbus"/>  -->
+	<!-- <node pkg="vizualizer" name="vizualizer" type="vizualizer" /> -->
+    <!-- <node pkg="obstacle_detect" name="obstacle_detect" type="obstacle_detect" /> -->
+	<!-- <node pkg="camera" name="camera1" type="camera1" /> -->
+	<!-- <node pkg="camera" name="camera2" type="camera2" /> -->
+	
+</launch>

@@ -1,0 +1,12 @@
+Header header
+float32 velSet
+float32 posTrqSet
+float32 negTrqSet
+float32 angleSet
+uint8 transSet
+bool autoStateSet
+bool goStateSet
+bool stopStateSet
+bool manualStateSet
+uint8 gear_change_req
+uint8 brake_req_type

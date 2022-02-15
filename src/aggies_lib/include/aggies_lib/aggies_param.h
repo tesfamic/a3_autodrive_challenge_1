@@ -1,0 +1,8 @@
+#ifndef AGGIESAUTO_AGGIESLIB_PARAMS_H_
+#define AGGIESAUTO_AGGIESLIB_PARAMS_H_
+
+#include <math.h>
+
+
+
+#endif //AGGIESAUTO_AGGIESLIB_PARAMS_H_
