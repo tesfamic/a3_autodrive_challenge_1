@@ -1,10 +1,10 @@
-## My Contributions to the AggiesAutonomousAuto(A3) in the AutodriveChallenge
+### Contributions to the NCA&T AggiesAutonomousAuto(A3) in the AutodriveChallenge
 
-  <img src="src/mission_control/src/autodrive_2021.jpg" width="600" height="450" />
+  <img src="src/mission_control/src/autodrive_2021.jpg" width="600" height="400" />
 
   The repo here is INCOMPLETE (sample code). The complete version will be released around summer 2022.
 
-### Modules
+### ROS Packages
 * Lane Detection 
 * Route Planning using A* algorithm
 * Trajectory Planner
@@ -28,7 +28,7 @@
 * <img src="images/mcity_map.png" width = "300" /> <img src="images/routing_astar.png" width="300" />
 
 ### Traffic Light Classifier
-* <img src="images/traffic_light_classifier.png" width="360" />
+* <img src="images/traffic_light_classifier.png" width="400" />
 
 ### Model Predictive Controller
 * 
