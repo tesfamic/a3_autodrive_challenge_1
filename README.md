@@ -31,8 +31,10 @@
 ### Traffic Light Classifier
 * <img src="images/traffic_light_classifier.png" width="400" />
 
-### Model Predictive Controller
-* 
+### Model Predictive Controller (MPC)
+* Demonstration of the MPC
+* https://youtu.be/r_QUSNEGzO0
+* https://www.youtube.com/watch?v=J-qTG7aOgX0
 
 ### Tested 
 * Ubuntu 18.04 LTS
