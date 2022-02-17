@@ -5,6 +5,7 @@
   The repo here is INCOMPLETE (sample code). The complete version will be released around summer 2022.
 
 ### ROS Packages
+---
 * Lane Detection 
 * Route Planning using A* algorithm
 * Trajectory Planner
@@ -39,6 +40,7 @@
 * <img src="images/mpc_path_tracking2.png" width="300" /> | <img src="images/mpc_path_tracking.png" width="300" />
 
 ### Additional info 
+---
 * Ubuntu 18.04 LTS
 * ROS Melodic (https://wiki.ros.org/melodic/Installation/Ubuntu)
 * Computer: Intel Crystal Rugged Server (https://www.crystalrugged.com/product/rs363s15f-rugged-3u-server/)
