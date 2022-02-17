@@ -1,4 +1,4 @@
-### Contributions to the NCA&T AggiesAutonomousAuto(A3) in the AutodriveChallenge
+### My contributions to the NCA&T AggiesAutonomousAuto(A3) in the AutodriveChallenge
 
   <img src="src/mission_control/src/autodrive_2021.jpg" width="600" height="400" />
 
