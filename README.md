@@ -29,19 +29,21 @@
 * <img src="images/mcity_map.png" width = "300" /> <img src="images/routing_astar.png" width="300" />
 
 ### Traffic Light Classifier
-* <img src="images/traffic_light_classifier.png" width="400" />
+* Video demo: https://youtu.be/9e3plS6yr0g
+ <img src="images/traffic_light_classifier.png" width="400" />
 
 ### Model Predictive Controller (MPC)
 * Demonstration of the MPC
-* https://youtu.be/r_QUSNEGzO0
-* https://www.youtube.com/watch?v=J-qTG7aOgX0
+* https://youtu.be/r_QUSNEGzO0 
+* https://youtu.be/J-qTG7aOgX0
+* <img src="images/mpc_path_tracking2.png" width="300" /> | <img src="images/mpc_path_tracking.png" width="300" />
 
-### Tested 
+### Additional info 
 * Ubuntu 18.04 LTS
 * ROS Melodic (https://wiki.ros.org/melodic/Installation/Ubuntu)
 * Computer: Intel Crystal Rugged Server (https://www.crystalrugged.com/product/rs363s15f-rugged-3u-server/)
 * Camera: TheImagingSource (https://www.theimagingsource.com/products/industrial-cameras/gige-color/dfk33gx265/)
 * GNSS+INS: NovAtel PwrPak7 (https://novatel.com/products/receivers/enclosures/pwrpak7)
 * LIDAR: Velodyne VLP-32 (https://velodynelidar.com/products/ultra-puck/)
-* 
+* GM Chevy Bolt EV 
 
