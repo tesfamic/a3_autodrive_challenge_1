@@ -24,7 +24,8 @@
   * <img src="images/cnn_detector.png" width="300" />
   
 ### Route Planning (A*)
-* Map is created in our own simple format for MCity-Ann Arbor Michigan
+* Lane level map is created in our own simple format for MCity-Ann Arbor Michigan. 
+  The A* routing method is adapted for the custom map. 
 * <img src="images/mcity_map.png" width = "300" /> <img src="images/routing_astar.png" width="300" />
 
 ### Traffic Light Classifier
