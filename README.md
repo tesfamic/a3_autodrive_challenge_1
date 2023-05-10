@@ -2,7 +2,7 @@
 
   <img src="src/mission_control/src/autodrive_2021.jpg" width="600" height="400" />
 
-  The repo here is INCOMPLETE (sample code). The complete version will be released around summer 2022.
+  The repo here is INCOMPLETE (sample code). The complete version will be released in summer 2023.
 
 ### ROS Packages
 ---
